@@ -13,4 +13,4 @@
     <img align="center" alt="007Devv-JS" height="30" width="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/javascript/javascript-original.svg" />
   </div>
                 
- ![Snake animation](https://github.com/007Devv/blob/output/github-contribuition-grid-snake.svg)         
+ ![Snake animation](https://github.com/007Devv/blob/output/github-contribution-grid-snake.svg)         
